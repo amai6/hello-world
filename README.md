@@ -1,2 +1,5 @@
 # hello-world
-basic tutorial repository
+
+Hello,
+
+A tutorial is teaching me how to use GitHub. Beep boop.
